@@ -2,3 +2,9 @@
     background-color: #a1c4dd;
     padding: 20px;
 }
+
+.circulo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
